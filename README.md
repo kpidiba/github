@@ -6,6 +6,14 @@
 
 While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository. In a sense, then, there's no comparison when it comes to Git vs. GitHub as far as their function.
 
+[**GITHUB DESKTOP**](https://desktop.github.com/)
+
+## PREVIEW
+
+- **MARTEXT**
+
+- **VS CODE**
+
 ### INSTALLATION
 
 - **initialisation du projet** :  git init, dans le dossier .git on retrouve la configuration et l' historique de notre projet

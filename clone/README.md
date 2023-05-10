@@ -69,3 +69,9 @@ The term pull is used to receive data from GitHub. It fetches and merges changes
 ```git
 git pull
 ```
+
+
+
+## GITHUB ACCESS PERMISSION SSH
+
+[SSH Keys for GitHub](https://jdblischak.github.io/2014-09-18-chicago/novice/git/05-sshkeys.html#:~:text=Add%20your%20public%20key%20to%20GitHub&text=Login%20to%20github.com%20and,hit%20Add%20key%20to%20save.) 
