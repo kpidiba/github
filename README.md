@@ -6,9 +6,15 @@
 
 While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository. In a sense, then, there's no comparison when it comes to Git vs. GitHub as far as their function.
 
-[**GITHUB DESKTOP**](https://desktop.github.com/)
+### RESSOURCES
 
-https://yhype.me 
+- [**GITHUB DESKTOP**](https://desktop.github.com/)
+
+- https://yhype.me 
+
+- [kpidiba GitHub analytics](https://ithub.app/profile/kpidiba) : Profile stats
+
+- [How to showcase your GitHub repositories on LinkedIn 🐱 - DEV Community](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non?ref=dailydev) 
 
 ## PREVIEW
 
