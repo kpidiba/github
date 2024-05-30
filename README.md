@@ -16,6 +16,12 @@ While Git is a tool that's used to manage multiple versions of source code edits
 
 - [How to showcase your GitHub repositories on LinkedIn 🐱 - DEV Community](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non?ref=dailydev) 
 
+- https://star-history.com/ 
+
+- [GitHub Star History and Stats](https://seladb.github.io/StarTrack-js) 
+
+- https://api.github.com/ : GITUB API DATA
+
 ## PREVIEW
 
 - **MARTEXT**
