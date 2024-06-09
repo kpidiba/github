@@ -6,7 +6,35 @@
 
 While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository. In a sense, then, there's no comparison when it comes to Git vs. GitHub as far as their function.
 
-### RESSOURCES
+## LOCAL RESSOURCES
+
+1. [**HELPFUL REPOSITORY**](./repos/readme.md) 
+
+2. **[CLONE](./readme.md)**
+
+3. **[CONFIG](./config/readme.md)**
+
+4. **[BRANCH](./branch/readme.md)**
+
+5. **[COMMIT](./commit/readme.md)**
+
+6. **[Historique modification](./History_Modify/readme.md)**
+
+7. **[TERMINOLOGY](./terminology/readme.md)**
+
+8. **[CONTRIBUTOR](./contributor/readme.md)**
+
+9. [**INDEX**](./index/readme.md)
+
+10. [**CHERRY**](./cherry/readme.md)
+
+11. [**CUSTOM PROFILE README**](./custom_profile_readme/readme.md) 
+
+12. [**WRITE GOOD README**](./project_readme/readme.md) 
+
+13. [**PULL REQUEST AND ISSUES**](./pull request and issues/readme.md) 
+
+### WEB RESSOURCES
 
 - [**GITHUB DESKTOP**](https://desktop.github.com/)
 
@@ -78,4 +106,6 @@ sudo apt-get install git
 
 7. [**contributor**]()
 
-8. [**INDEX**]()
+8. [**INDEX**](./index/readme.md) 
+
+9. []
