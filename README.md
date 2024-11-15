@@ -14,7 +14,7 @@ Git is a version control system, while GitHub serves as an online host for Git r
 ## **LOCAL RESOURCES** 📂
 
 1. 🛠️ [**Helpful Repository**](./repos/readme.md)
-2. 📋 [**Clone**](./readme.md)
+2. 📋 [**Clone**](./clone/readme.md)
 3. ⚙️ [**Config**](./config/readme.md)
 4. 🌱 [**Branch**](./branch/readme.md)
 5. 💾 [**Commit**](./commit/readme.md)
