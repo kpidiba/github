@@ -1,5 +1,3 @@
----
-
 # 🌟 **Project Setup and Git Workflow Guide**
 
 ## 🔑 **Generate SSH Key for Secure Connections**
@@ -9,8 +7,6 @@ To establish a secure connection, generate an SSH key:
 ```bash
 ssh-keygen -t rsa -C "kpidibadavid1@gmail.com"
 ```
-
----
 
 ## 🚀 **Clone Project**
 
