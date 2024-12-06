@@ -14,6 +14,9 @@
 - **GitHub Gists** 📝  
   Browse and share code snippets with ease on GitHub Gists. A platform where developers can store and manage their small code projects. [GitHub Gists](https://gist.github.com/)
 
+- **Public API Lists** 📚  
+  Discover an extensive collection of publicly available APIs, perfect for developers building integrations and applications. [Public API Lists on GitHub](https://github.com/public-api-lists/public-api-lists) 
+
 ---
 
 These platforms are great for discovering new projects, connecting with developers, and sharing code snippets. Let me know if you need more details on any of these!
