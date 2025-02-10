@@ -17,22 +17,23 @@ Git is a version control system, while GitHub serves as an online host for Git r
 2. 📋 [**Clone**](./clone/readme.md)
 3. ⚙️ [**Config**](./config/readme.md)
 4. 🌱 [**Branch**](./branch/readme.md)
-5. 💾 [**Commit**](./commit/readme.md)
-6. 📜 [**History of Modifications**](./History_Modify/readme.md)
-7. 📚 [**Terminology**](./terminology/readme.md)
-8. 👥 [**Contributor**](./contributor/readme.md)
-9. 🔗 [**Index**](./index/readme.md)
-10. 🍒 [**Cherry**](./cherry/readme.md)
-11. 🎨 [**Custom Profile README**](./custom_profile_readme/readme.md)
-12. ✍️ [**Write a Good README**](./project_readme/readme.md)
-13. 🔀 **Pull Request and Issues**
+5. [MANAGE BRANCH](./manage-branch/readme.md)
+6. 💾 [**Commit**](./commit/readme.md)
+7. 📜 [**History of Modifications**](./History_Modify/readme.md)
+8. 📚 [**Terminology**](./terminology/readme.md)
+9. 👥 [**Contributor**](./contributor/readme.md)
+10. 🔗 [**Index**](./index/readme.md)
+11. 🍒 [**Cherry**](./cherry/readme.md)
+12. 🎨 [**Custom Profile README**](./custom_profile_readme/readme.md)
+13. ✍️ [**Write a Good README**](./project_readme/readme.md)
+14. 🔀 **Pull Request and Issues**
 
 ---
 
 ## **WEB RESOURCES** 🌐
 
 - 🖥️ [**GitHub Desktop**](https://desktop.github.com/)
-- 🌟 [**GitHub Analytics**](https://ithub.app/profile/kpidiba)
+- 🌟 [**GitHub Analytics**](https://commits.toino.pt/TG/contribs/) 
 - 💡 [**Showcase GitHub Repos on LinkedIn**](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non?ref=dailydev)
 - 📈 [**Star History and Stats**](https://seladb.github.io/StarTrack-js)
 - 📊 [**GitHub Star History**](https://star-history.com/)
