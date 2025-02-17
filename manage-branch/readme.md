@@ -56,12 +56,10 @@ Une gestion rigoureuse des branches garantit une intégration continue stable, u
 git checkout develop
 git pull origin develop  # S'assurer d'avoir la dernière version
 git checkout -b release/1.1.0
-git push origin release/1.1.
+git push origin release/1.1.0
 ```
 
 > **Pourquoi ?** Cette branche permet d’isoler la finalisation de la version sans perturber le développement de nouvelles fonctionnalités sur `develop`.
-
-
 
 #### **Effectuer les derniers ajustements**
 
@@ -70,6 +68,41 @@ Sur cette branche, on peut :
 ✅ Mettre à jour la documentation (`README.md`, `CHANGELOG.md`).  
 ✅ Vérifier et inclure les fichiers nécessaires (migrations, configurations).  
 ✅ S'assurer que tous les tests passent correctement.
+
+# CHANGELOG
+
+Un changelog est un document qui enregistre toutes les modifications importantes apportées à un projet, comme les nouvelles fonctionnalités, les corrections de bugs, les améliorations et les changements de configuration. Il permet aux développeurs et aux utilisateurs de suivre l'évolution du projet.
+
+```md
+# Changelog
+
+## [1.1.0] - 2025-02-17
+### Added
+- Ajout d'un module de gestion des utilisateurs.
+- Nouvelle fonctionnalité de notifications push pour les utilisateurs.
+
+### Changed
+- Amélioration de la vitesse de traitement des requêtes de recherche.
+- Mise à jour du design du tableau de bord principal.
+
+### Fixed
+- Correction d'un bug où les utilisateurs ne pouvaient pas réinitialiser leur mot de passe.
+- Correction de l'affichage des rapports statistiques sur la page d'analyse.
+
+## [1.0.0] - 2025-01-15
+### Added
+- Première version stable du projet.
+- Fonctionnalité de création de rapports avec exportation en PDF.
+```
+
+### Ce que tu devrais inclure dans ton changelog :
+
+1. **Version** : Le numéro de version suivi de la date de la mise à jour (ex : [1.1.0] - 2025-02-17).
+2. **Nouvelles fonctionnalités (Added)** : Toutes les nouvelles fonctionnalités ajoutées au projet.
+3. **Modifications (Changed)** : Les améliorations ou les changements apportés aux fonctionnalités existantes.
+4. **Corrections de bugs (Fixed)** : Les bugs ou problèmes corrigés dans cette version.
+5. **Supprimé (Removed)** : Si des fonctionnalités ont été supprimées ou des anciennes fonctionnalités qui ne sont plus compatibles.
+6. **Sécurisé (Security)** : Les mises à jour liées à la sécurité (si applicable).
 
 ---
 
