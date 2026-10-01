@@ -11,6 +11,74 @@ Git is a version control system, while GitHub serves as an online host for Git r
 
 ---
 
+## ALL ONLINE RESOURCES
+
+- **[HOW TO CODING WITH IA](https://github.com/kpidiba/AI---CODING)**
+
+- **[PROJECT PLANNING](https://github.com/kpidiba/project-planning)**
+  
+  - PLANNING WEBSITE AND APPLICATION MOBILE OR WEB
+  
+  - PLANNING OF WEB APPLICATION
+  
+  - PLANNING OF MOBILE APPLICATION
+  
+  - CORRECT SIZE FOR LOGOS
+  
+  - DOCUMENT NEEDED AT THE START, IN BETWEEN TASKS AT THE END OF THE TASK
+
+- **[ANGULAR REPOSITORY](https://github.com/kpidiba/angular_learning)**
+  
+  - LEARNING , PRO TIPS, OTHERS RESSOURCES RELATE TO ANGULAR
+
+- **[DOCKER](https://github.com/kpidiba/docker)**
+
+- **[FLUTTER](https://github.com/kpidiba/Flutter)**
+
+- **[GITHUB](https://github.com/kpidiba/github)**
+
+- **[SPRING CHAT SOCKET](https://github.com/kpidiba/spring_socket_chat)**
+
+- **[SPRING JASPER](https://github.com/kpidiba/spring_jasper)**
+
+- **[SPRING SECURITY](https://github.com/kpidiba/spring_security)**
+
+- **[PYTHON](https://github.com/kpidiba/PYTHON)**
+
+- **[SPRING BOOT](https://github.com/kpidiba/SPRING-BOOT)**
+
+- **[HOSTING](https://github.com/kpidiba/HOSTING)**
+  
+  - NGINX
+  
+  - SSL
+
+- **[HOSTING SPRING](https://github.com/kpidiba/HOSTING-SPRING)**
+
+- **[SPRING BOOT TESTING](https://github.com/kpidiba/SPRING-BOOT-TESTING)**
+
+- **[WEB TOOLS](https://github.com/kpidiba/WEB-TOOLS)**
+
+- **[WINDOWS](https://github.com/kpidiba/WINDOWS)**
+
+- **[LINIUX](https://github.com/kpidiba/Linux)**
+
+- **[UI PROJECTS](https://github.com/kpidiba/UI-PROJECTS)**
+
+- **[SPRING SECURITY](https://github.com/kpidiba/spring_security)**
+
+- **[IDE](https://github.com/kpidiba/IDE)**
+
+- **[JAVA](https://github.com/kpidiba/JAVA)**
+
+- **[LARAVEL](https://github.com/kpidiba/Laravel)**
+
+- **[NEXTJS](https://github.com/kpidiba/NEXTJS)**
+
+- 
+
+---
+
 ## **LOCAL RESOURCES** 📂
 
 1. 🛠️ [**Helpful Repository**](./repos/readme.md)
@@ -33,7 +101,6 @@ Git is a version control system, while GitHub serves as an online host for Git r
 ## **WEB RESOURCES** 🌐
 
 - 🖥️ [**GitHub Desktop**](https://desktop.github.com/)
-- 🌟 [**GitHub Analytics**](https://commits.toino.pt/TG/contribs/) 
 - 💡 [**Showcase GitHub Repos on LinkedIn**](https://dev.to/monicafidalgo/how-to-showcase-your-github-repositories-on-linkedin-1non?ref=dailydev)
 - 📈 [**Star History and Stats**](https://seladb.github.io/StarTrack-js)
 - 📊 [**GitHub Star History**](https://star-history.com/)

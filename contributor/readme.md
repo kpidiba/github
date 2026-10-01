@@ -24,8 +24,6 @@ Generally, people working on the same project clone the repository and the exter
 
 A pull request can merge the changes made on the fork repository. We can create a pull request to propose changes to the project. Comparatively, changes made on the cloned repository can be merged by pushing. We can push the changes to our remote repository.
 
-
-
 # Contributing to [Project Name]
 
 We are excited to have you contribute to the [Project Name] project! This guide will walk you through the process of making contributions, including how to report issues, create pull requests (PRs), and get involved in the project.
@@ -107,8 +105,6 @@ Once you've made changes and committed them to your branch, it’s time to submi
 
 Your pull request will be reviewed by the project maintainers, and they may provide feedback or request changes.
 
-
-
 ### 1. **Automatically Close Issues with a PR**
 
 When you create a pull request that fixes a specific issue, you can mention the issue in the PR description using keywords like:
@@ -126,8 +122,6 @@ If you forgot to mention the issue in the PR description, you can manually link 
 1. Go to the **Pull Request** on GitHub.
 2. In the right sidebar, find the "Linked Issues" section.
 3. Click **"Link Issue"** and search for the issue number.
-
-
 
 ---
 
